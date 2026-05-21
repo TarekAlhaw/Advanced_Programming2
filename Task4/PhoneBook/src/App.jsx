@@ -91,7 +91,7 @@ const App = () => {
         <button type="submit">إضافة</button>
       </form>
 
-      {/* 📋 العرض */}
+      {/*  العرض */}
       <h2>الأرقام</h2>
 
       <ul>
